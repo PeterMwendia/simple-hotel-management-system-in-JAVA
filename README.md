@@ -17,4 +17,6 @@ This is a simple hotel management system implemented in Java using the Java Swin
 
 ## Getting Started
 1. Clone this repository to your local machine:
-
+```shell
+  git clone https://github.com/PeterMwendia/simple-hotel-management-system-in-JAVA.git
+```
