@@ -20,3 +20,26 @@ This is a simple hotel management system implemented in Java using the Java Swin
 ```shell
   git clone https://github.com/PeterMwendia/simple-hotel-management-system-in-JAVA.git
 ```
+
+2. Open the project in NetBeans IDE.
+
+3. Set up your MySQL database and configure the database connection in the project settings.
+
+4. Build and run the project in NetBeans.
+
+5. You can now use the hotel management system to perform various tasks.
+
+## Usage
+- Launch the application to access the main menu.
+- Use the menu options to navigate and perform different functions within the system.
+- Create new reservations, manage customer information, and generate invoices as needed.
+
+## Contributors
+- Peter Mwendia - Project Lead
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+- Thanks to the Java community and the Swing framework for making this project possible.
+
